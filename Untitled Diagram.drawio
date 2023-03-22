@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T09:30:13.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jwq9N6fHs_gjBzjKgNL9" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T09:51:00.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="w-nN_bL8-h2_Fsln3H45" version="21.0.8" type="github">
   <diagram id="uEitK5Yw8WxjuDZyDiQq" name="Page-1">
     <mxGraphModel dx="1004" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="300" />
-              <mxPoint x="340" y="260" />
+              <mxPoint x="340" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,16 +57,22 @@
           <mxGeometry x="160" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-5" value="setupBalanceCards" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IqSwhLnuAe2NlgsMzAqs-6" target="IqSwhLnuAe2NlgsMzAqs-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-6" value="setupCards(cards:[Card])" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IqSwhLnuAe2NlgsMzAqs-7" target="IqSwhLnuAe2NlgsMzAqs-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-7" value="setupHomeCardJourney" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-8" value="setListBasedCheck" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="400" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-9" value="showPopupForRNELevelUpIfNeeded" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="240" height="40" as="geometry" />
@@ -81,28 +87,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-22" value="fetchCards" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IqSwhLnuAe2NlgsMzAqs-26" target="IqSwhLnuAe2NlgsMzAqs-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-26" value="setupCards(cards:[Card])" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="160" height="40" as="geometry" />
+          <mxGeometry x="640" y="80" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IqSwhLnuAe2NlgsMzAqs-29" value="setupFetchCards(cards:[Card])" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" width="200" height="40" as="geometry" />
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IqSwhLnuAe2NlgsMzAqs-29" target="IqSwhLnuAe2NlgsMzAqs-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-29" value="setupFetchCards(cards:[Card])" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IqSwhLnuAe2NlgsMzAqs-31" target="IqSwhLnuAe2NlgsMzAqs-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-31" value="setBalance" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-80" width="160" height="40" as="geometry" />
+          <mxGeometry x="360" y="-80" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IqSwhLnuAe2NlgsMzAqs-33" target="IqSwhLnuAe2NlgsMzAqs-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-33" value="setCurrentUsage" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-80" width="160" height="40" as="geometry" />
+          <mxGeometry x="640" y="-80" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IqSwhLnuAe2NlgsMzAqs-35" value="setupBalanceCards" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-80" width="160" height="40" as="geometry" />
+          <mxGeometry x="920" y="-80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-37" value="getCardSection(card:Card)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-41" value="getCardSection(card:Card)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IqSwhLnuAe2NlgsMzAqs-44" target="IqSwhLnuAe2NlgsMzAqs-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-44" value="setupFetchCards(cards:[Card])" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-46" value="getFetchedCardSection(card:Card)&amp;nbsp;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IqSwhLnuAe2NlgsMzAqs-47" value="getFetchedCardSection(card:Card)&amp;nbsp;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="320" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
