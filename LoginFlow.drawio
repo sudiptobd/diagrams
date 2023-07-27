@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T10:46:58.536Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bAm_hvP2IWBwn4H9ybdR" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T10:47:56.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lwbJvL9q3Z9bln_yRlCr" version="21.6.1" type="github">
   <diagram name="Page-1" id="DjaxHwDUr4pckMfMvKmT">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="yMz5hPpZdlbzewgeg3ee-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMz5hPpZdlbzewgeg3ee-11" target="yMz5hPpZdlbzewgeg3ee-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yMz5hPpZdlbzewgeg3ee-11" value="loginButton" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yMz5hPpZdlbzewgeg3ee-11" value="loginButton" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMz5hPpZdlbzewgeg3ee-20" value="On Completion" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMz5hPpZdlbzewgeg3ee-14" target="yMz5hPpZdlbzewgeg3ee-16">
@@ -127,13 +127,13 @@
             <mxPoint x="450" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yMz5hPpZdlbzewgeg3ee-56" value="buttonChange" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yMz5hPpZdlbzewgeg3ee-56" value="buttonChange" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="840" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMz5hPpZdlbzewgeg3ee-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMz5hPpZdlbzewgeg3ee-58" target="yMz5hPpZdlbzewgeg3ee-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yMz5hPpZdlbzewgeg3ee-58" value="buttonContinue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yMz5hPpZdlbzewgeg3ee-58" value="buttonContinue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="840" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMz5hPpZdlbzewgeg3ee-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMz5hPpZdlbzewgeg3ee-62" target="yMz5hPpZdlbzewgeg3ee-66">
@@ -180,13 +180,13 @@
         <mxCell id="yMz5hPpZdlbzewgeg3ee-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yMz5hPpZdlbzewgeg3ee-77" target="yMz5hPpZdlbzewgeg3ee-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yMz5hPpZdlbzewgeg3ee-77" value="forceLoginButton" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yMz5hPpZdlbzewgeg3ee-77" value="forceLoginButton" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="840" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMz5hPpZdlbzewgeg3ee-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMz5hPpZdlbzewgeg3ee-80" target="yMz5hPpZdlbzewgeg3ee-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yMz5hPpZdlbzewgeg3ee-80" value="buttonContinue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yMz5hPpZdlbzewgeg3ee-80" value="buttonContinue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="1200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMz5hPpZdlbzewgeg3ee-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMz5hPpZdlbzewgeg3ee-83" target="yMz5hPpZdlbzewgeg3ee-87">
